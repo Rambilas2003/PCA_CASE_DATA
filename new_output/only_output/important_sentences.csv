@@ -1,0 +1,849 @@
+Page,Important Sentence,Score,Keywords,Entities
+2,"The Appellant/Accused No. 1 was working as Regional
+Manager (South) at Chennai with the Rashtriya Ispat Nigam Ltd.
+On 4.01.2001 case was registered against the Appellant under
+Section 120B read with Sections 420, 467, 468 and 471 of the
+Indian Penal Code, 1860 (“IPC”); and Section 13(2) read with
+Section 13(1)(d) of the Prevention of Corruption Act, 1988 (“PC
+Act”).",5.5548,"Appellant, Regional, Manager, South, Chennai, Rashtriya, Ispat","[('The Appellant/Accused No', 'ORG'), ('1', 'CARDINAL'), ('South', 'LOC'), ('the Rashtriya Ispat Nigam Ltd.', 'ORG'), ('4.01.2001', 'CARDINAL'), ('Appellant', 'PRODUCT'), ('Section 120B', 'LAW'), ('Sections 420', 'ORG'), ('467', 'DATE'), ('468', 'CARDINAL'), ('471', 'CARDINAL'), ('Indian Penal Code', 'LAW'), ('1860', 'DATE'), ('IPC', 'ORG'), ('Section 13(2', 'LAW'), ('Section 13(1)(d', 'LAW'), ('the Prevention of Corruption Act', 'ORG'), ('1988', 'DATE')]"
+2,"Subsequently, the officers of the Respondent investigative
+agency conducted search at the Appellant’s residence on
+24.01.2001 on the basis of search warrant issued by the Special
+Judge, Tis Hazari Court, New Delhi.",4.4986,"officers, Respondent, agency, search, Appellant, residence, basis","[('Respondent', 'LOC'), ('Appellant', 'PRODUCT'), ('24.01.2001', 'CARDINAL'), ('Tis Hazari Court', 'ORG'), ('New Delhi', 'GPE')]"
+3,"No. 6327 of
+2020) wrote letter dated 4.02.2002 to the Superintendent of
+Police, CBI/ACU­II claiming that the seized currency did not
+belong to the Appellant/Accused No. 1.",4.2847,"letter, Superintendent, Police, ACU­II, currency, Appellant","[('6327', 'DATE'), ('2020', 'DATE'), ('4.02.2002', 'TIME'), ('CBI', 'ORG'), ('the Appellant/Accused No', 'ORG'), ('1', 'CARDINAL')]"
+3,"They contended that
+Accused No. 2 had entered into agreement of sale dated
+24.01.2001 to purchase properties from Accused No. 3, for which
+a sum of Rs 80 lakhs was to be paid in advance.",4.0888,"agreement, sale, properties, Accused, lakhs, advance","[('2', 'CARDINAL'), ('24.01.2001', 'CARDINAL'), ('Accused No', 'GPE'), ('3', 'CARDINAL'), ('80', 'CARDINAL')]"
+4,"Accused No. 2 produced the purported sale deed dated
+24.01.2001 (in duplicate) typed out on stamp paper before the
+Investigating Officer in support of their claim.",4.0566,"sale, deed, stamp, paper, Investigating, Officer, support","[('2', 'CARDINAL'), ('24.01.2001', 'CARDINAL')]"
+4,"He also produced
+certain books of accounts to show that he had financial capacity
+to purchase the properties from Accused No. 3, in which entry
+was made on 20.01.2001 pertaining to payment of advance price
+of Rs 80 lakhs to Accused No. 3.",4.4324,"books, accounts, capacity, properties, Accused, entry, payment","[('Accused No', 'GPE'), ('3', 'CARDINAL'), ('20.01.2001', 'CARDINAL'), ('80', 'CARDINAL'), ('Accused No', 'GPE'), ('3', 'CARDINAL')]"
+4,"However, pertinently, the
+Appellant had not taken any such defence at the time of search
+conducted in his house on 24.01.2001, nor had he produced the
+duplicate sale deed before the officers of the Respondent agency
+at that time.",4.1201,"Appellant, defence, time, search, house, sale, deed","[('24.01.2001', 'DATE')]"
+4,"3.3 Investigation conducted by the Respondent revealed
+that the market value fixed by the State Government in respect of
+the two properties described in sale deed dated 24.01.2001, was
+much below Rs 80 lakhs.",4.5161,"Investigation, Respondent, market, value, State, Government, respect","[('3.3', 'CARDINAL'), ('Respondent', 'PRODUCT'), ('the State Government', 'ORG'), ('two', 'CARDINAL'), ('24.01.2001', 'DATE'), ('80', 'CARDINAL')]"
+5,"Accordingly, the Learned Additional
+Special Judge for CBI Cases, Chennai (“Trial Court”) framed
+charges against the Appellant and Accused Nos.",3.7402,"Additional, Special, Judge, Cases, Chennai, Trial, Court","[('the Learned Additional\nSpecial', 'ORG'), ('CBI Cases', 'ORG'), ('Chennai', 'PERSON'), ('Trial Court', 'WORK_OF_ART'), ('Appellant and Accused Nos', 'WORK_OF_ART')]"
+5,"However, during the course of trial, the
+Accused argued that complaint under Section 195(1)(b) of the
+Code of Criminal Procedure, 1973 (“CrPC”) was necessary for
+prosecuting the case under Section 193, IPC.",3.9748,"course, trial, Accused, complaint, Section, Code, Criminal","[('Section 195(1)(b', 'LAW'), ('1973', 'DATE'), ('CrPC', 'WORK_OF_ART'), ('Section 193', 'LAW'), ('IPC', 'ORG')]"
+6,"Furthermore, based on the evidence on the record, the Trial
+Court found that it was not proved that Accused No. 2 had
+entrusted the seized currency to the Appellant for holding in
+escrow till completion of sale transaction by Accused No. 3.",4.1132,"evidence, record, Trial, Court, currency, Appellant, escrow","[('the Trial\nCourt', 'ORG'), ('2', 'CARDINAL'), ('Appellant', 'PRODUCT'), ('Accused No', 'ORG'), ('3', 'CARDINAL')]"
+6,"Hence, the Trial Court convicted the Appellant under Section
+13(2) read with Section 13(1)(e) of the PC Act; as well as Sections
+120B and 193 of the IPC, and sentenced him to rigorous
+imprisonment for two years and payment of fine of Rs 1.5 lakhs.",4.3544,"Trial, Court, Appellant, Section, 13(2, Sections, 120B","[('the Trial Court', 'ORG'), ('Section 13(1)(e', 'LAW'), ('Sections', 'ORG'), ('193', 'CARDINAL'), ('IPC', 'ORG'), ('two years', 'DATE'), ('1.5', 'CARDINAL')]"
+7,"The High Court relied upon the decision of a three­Judge
+Bench of this Court in Sachida Nand Singh and Another v.
+State of Bihar and Another, (1998) 2 SCC 493, and the later
+Constitution Bench decision in Iqbal Singh Marwah (supra)
+which affirmed the view taken in Sachida Nand Singh, while
+laying down its opinion.",4.6549,"High, Court, decision, Bench, Sachida, Nand, Singh","[('The High Court', 'ORG'), ('Court', 'ORG'), ('Sachida', 'GPE'), ('Nand Singh', 'PERSON'), ('1998', 'DATE'), ('2', 'CARDINAL'), ('Singh Marwah', 'PERSON'), ('Sachida', 'GPE'), ('Nand Singh', 'PERSON')]"
+8,"4. Learned senior counsel Mr. Basava Prabhu Patil, and
+learned counsel Mr. Amit Anand Tiwari and Mr. B. Karunakaran
+appearing for the Appellants/Accused, have forcefully argued
+that Section 195(1)(b)(i), CrPC cannot be construed as analogous
+to Section 195(1)(b)(ii).",4.1735,"counsel, Basava, Prabhu, Patil, Amit, Anand, Tiwari","[('4', 'CARDINAL'), ('Basava Prabhu Patil', 'PERSON'), ('Amit Anand', 'PERSON'), ('B. Karunakaran', 'PERSON'), ('the Appellants/Accused', 'ORG'), ('Section 195(1)(b)(i', 'LAW'), ('CrPC', 'ORG')]"
+9,"4.1 Per contra, learned Additional Solicitor General
+appearing for the Respondent, Ms. Aishwarya Bhati, has
+contended that the holding in Iqbal Singh Marwah is applicable
+in respect of Section 195(1)(b)(i) of the CrPC as well.",4.3008,"contra, Additional, Solicitor, General, Respondent, Aishwarya, Bhati","[('4.1', 'CARDINAL'), ('Additional Solicitor General', 'ORG'), ('Aishwarya Bhati', 'PERSON'), ('Singh Marwah', 'PERSON'), ('Section 195(1)(b)(i', 'LAW'), ('CrPC', 'ORG')]"
+9,"She has also
+sought to distinguish Bandekar Brothers (supra) and other
+decisions relied upon by the learned counsel for the
+Appellants/Accused on the ground that these were rendered in
+the particular facts of those cases, and will not apply to the
+present case.",4.2865,"Bandekar, Brothers, supra, decisions, counsel, Appellants, ground","[('Bandekar Brothers', 'ORG'), ('Appellants/Accused', 'ORG')]"
+9,"(1) No Court shall take cognizance—
+(b)(i) of any offence punishable under any of the
+following sections of the Indian Penal Code (45 of
+1860), namely, sections 193 to 196 (both inclusive),
+199, 200, 205 to 211 (both inclusive) and 228, when
+9",4.1741,"Court, cognizance, b)(i, offence, sections, Indian, Penal","[('1', 'CARDINAL'), ('the Indian Penal Code', 'LAW'), ('45', 'CARDINAL'), ('1860', 'DATE'), ('193', 'CARDINAL'), ('196', 'CARDINAL'), ('199', 'CARDINAL'), ('200', 'CARDINAL'), ('205', 'CARDINAL'), ('211', 'CARDINAL'), ('228', 'CARDINAL'), ('9', 'CARDINAL')]"
+10,"such offence is alleged to have been committed in, or
+in relation to, any proceeding in any Court,
+or
+(ii) of any offence described in section 463, or
+punishable under section 471, section 475 or section
+476, of the said Code, when such offence is alleged to
+have been committed in respect of a document
+produced or given in evidence in a proceeding in any
+Court,
+or
+(iii) of any criminal conspiracy to commit, or attempt
+to commit, or the abetment of, any offence specified
+in sub­clause (i) or sub­clause (ii),
+except on the complaint in writing of that Court or by
+such officer of the Court as that Court may authorise
+in writing in this behalf, or of some other Court to
+which that Court is subordinate.",5.5449,"offence, relation, proceeding, Court, section, Code, respect","[('Court', 'ORG'), ('475', 'CARDINAL'), ('476', 'CARDINAL'), ('Court', 'ORG'), ('Court', 'ORG'), ('Court', 'ORG'), ('Court', 'ORG'), ('Court', 'ORG')]"
+10,"In clause (b) of Sub­Section (1), the term “Court”
+means a Civil, Revenue or Criminal Court, and
+includes a tribunal constituted by or under a Central,
+provincial or State Act if declared by that Act to be a
+Court for the purposes of this section.”
+(emphasis supplied)
+10",4.5064,"clause, Sub­Section, term, Court, Civil, Revenue, Criminal","[('1', 'CARDINAL'), ('Criminal Court', 'ORG'), ('Central', 'ORG'), ('10', 'CARDINAL')]"
+11,"It is well settled that Section 195(1)(b) creates a bar against
+taking cognizance of offences against the administration of
+justice for the purpose of guarding against baseless or vindictive
+prosecutions by private parties.",3.9656,"Section, cognizance, offences, administration, justice, purpose, prosecutions",[]
+11,"The provisions of this Section
+imply that the Court is the only appropriate authority which is
+entitled to raise grievance in relation to perjury, forgery of
+documents produced before the Court, and other offences which
+interfere with the effective dispensation of justice by the Court.",4.2348,"provisions, Section, Court, authority, grievance, relation, perjury","[('Court', 'ORG'), ('Court', 'ORG'), ('Court', 'ORG')]"
+11,"However,
+there is a pertinent difference in the wording of Section 195(1)(b)
+(i) and Section 195(1)(b)(ii) inasmuch as Section 195(1)(b)(ii) is
+restricted to offences which are committed in respect of a
+document which is “produced or given in evidence in a proceeding
+in any court”.",3.89,"difference, wording, Section, inasmuch, offences, respect, document","[('Section 195(1)(b)(ii', 'LAW')]"
+12,"When upon an application made to it in
+this behalf or otherwise any Court is of opinion that it
+is expedient in the interest of justice that an inquiry
+should be made into any offence referred to in clause
+(b) of Sub­Section (1) of section 195, which appears to
+have been committed in or in relation to a proceeding
+in that Court or, as the case may be, in respect of a
+document produced or given in evidence in a
+proceeding in that Court, such Court may, after such
+preliminary inquiry, if any, as it thinks necessary;
+(a) record a finding to that effect;
+(b) make a complaint thereof in writing;
+(c) send it to a Magistrate of the first class having
+jurisdiction;
+(d) take sufficient security for the appearance for the
+accused before such Magistrate, or if the alleged
+offence is non­bailable and the Court thinks it
+necessary so to do send the accused in custody to
+such Magistrate; and
+(e) bind over any person to appear and give evidence
+before such Magistrate.",6.3034,"application, behalf, Court, opinion, expedient, interest, justice","[('Court', 'ORG'), ('1', 'CARDINAL'), ('section 195', 'LAW'), ('Court', 'ORG'), ('Court', 'ORG'), ('Court', 'ORG'), ('Magistrate', 'ORG'), ('first', 'ORDINAL'), ('Magistrate', 'ORG'), ('Court', 'ORG'), ('Magistrate', 'ORG'), ('Magistrate', 'ORG')]"
+12,"At this juncture, it is relevant to note that a Bench of this
+Court (consisting of one of us) in State of Punjab v. Jasbir
+Singh, (2020) 12 SCC 96, has referred the question of whether it
+is mandatory for the Court to conduct a preliminary inquiry and
+provide opportunity of hearing to the would­be­accused under
+12",4.679,"juncture, Bench, Court, State, Punjab, Jasbir, Singh","[('one', 'CARDINAL'), ('State', 'ORG'), ('Punjab', 'NORP'), ('Jasbir\nSingh', 'PERSON'), ('2020', 'DATE'), ('12', 'CARDINAL'), ('Court', 'ORG'), ('12', 'CARDINAL')]"
+13,"Therefore, we shall be
+limiting our findings to the issue of whether written complaint by
+the Trial
+Court was required under Section 195(1)(b)(i), CrPC in the
+present case, without delving extensively into the aspect of
+whether preliminary inquiry was required to be conducted prior
+to such complaint.",4.2431,"findings, issue, complaint, Trial, Court, Section, CrPC","[('the Trial\nCourt', 'ORG'), ('Section 195(1)(b)(i', 'LAW'), ('CrPC', 'ORG')]"
+13,"Whoever causes
+any circumstance to exist or makes any false entry in
+any book or record, or electronic record or makes any
+document or electronic record containing a false
+statement, intending that such circumstance, false
+entry or false statement may appear in evidence in a
+judicial proceeding, or in a proceeding taken by law
+before a public servant as such, or before an
+arbitrator, and that such circumstance, false entry or
+false statement, so appearing in evidence, may cause
+any person who in such proceeding is to form an
+opinion upon the evidence, to entertain an erroneous
+opinion touching any point material to the result of
+such proceeding, is said “to fabricate false evidence”.",5.0608,"circumstance, entry, book, record, document, statement, evidence",[]
+14,"Whoever
+intentionally gives false evidence in any stage of a
+judicial proceeding, or fabricates false evidence for
+the purpose of being used in any stage of a judicial
+proceeding, shall be punished with imprisonment of
+either description for a term which may extend to
+seven years, and shall also be liable to fine…
+Explanation 2: An investigation directed by law
+preliminary to a proceeding before a Court of Justice,
+is a stage of a judicial proceeding, though that
+investigation may not take place before a Court of
+Justice.”",5.0176,"evidence, stage, proceeding, purpose, imprisonment, description, term","[('seven years', 'DATE'), ('Court of Justice', 'ORG'), ('Court', 'ORG')]"
+14,"2 and
+3 is that they colluded with Appellant/Accused No. 1 to create a
+false sale deed, and gave false explanation of escrow arrangement
+amongst the three parties, to justify how the seized currency came
+to be in the Appellant’s possession.",4.0523,"Appellant, sale, deed, explanation, arrangement, parties, currency","[('2', 'CARDINAL'), ('3', 'CARDINAL'), ('Appellant/Accused No', 'ORG'), ('1', 'CARDINAL'), ('three', 'CARDINAL'), ('Appellant', 'PRODUCT')]"
+14,"Had the
+genuineness of the sale deed been accepted, the Respondent may
+have erroneously opined that the seized currency belonged to
+Accused No. 2, and consequently abandoned proceedings under
+Section 13(1)(e), PC Act against the Appellant.",4.2168,"genuineness, sale, deed, Respondent, currency, proceedings, Section","[('2', 'CARDINAL'), ('Appellant', 'PRODUCT')]"
+15,"Hence, the primary question of law that arises for
+our consideration in these appeals is whether
+Section 195(1)(b)(i), CrPC bars lodging of case by
+the investigating agency under Section 193, IPC,
+in respect of offence of giving false evidence which
+is committed at the stage of investigation, prior to
+production of such evidence before the Trial
+Court?",5.083,"question, consideration, appeals, Section, 195(1)(b)(i, CrPC, bars","[('Section 195(1)(b)(i', 'LAW'), ('CrPC', 'ORG'), ('Section 193', 'LAW'), ('IPC', 'ORG'), ('the Trial\nCourt', 'ORG')]"
+15,"Whether an offence under Section 193, IPC
+committed at the stage of investigation, prior to
+production of the false evidence before the Trial
+Court by a person who is not yet party to
+proceedings before the Trial Court, is an offence
+“in relation to” a proceeding in any court under
+Section 195(1)(b)(i), CrPC?
+6.2 Whether the words “stage of a judicial proceeding”
+under Explanation 2 to Section 193, IPC can be
+equated with “proceeding in any court” under
+Section 195(1)(b)(i), CrPC?
+15",4.7323,"offence, Section, stage, investigation, production, evidence, Trial","[('Section 193', 'LAW'), ('IPC', 'ORG'), ('the Trial\nCourt', 'ORG'), ('the Trial Court', 'ORG'), ('Section 195(1)(b)(i', 'LAW'), ('CrPC', 'ORG'), ('6.2', 'CARDINAL'), ('Explanation 2 to Section 193', 'LAW'), ('IPC', 'ORG'), ('Section 195(1)(b)(i', 'LAW'), ('CrPC', 'ORG'), ('15', 'CARDINAL')]"
+16,"Before answering the questions stated in paragraph 6
+(supra), it may be useful to refer to the landmark precedents of
+this Court which have considered similar issues arising under
+Section 195(1)(b)(ii), CrPC.",4.0444,"questions, paragraph, supra, precedents, Court, issues, Section","[('6', 'CARDINAL'), ('Court', 'ORG'), ('CrPC', 'ORG')]"
+16,"This Court in
+Sachida Nand Singh (supra) has held that Section 195(1)(b)(ii)
+read with Section 340(1), CrPC will only apply in respect of
+offences which are committed during the time when the
+document concerned was custodia legis or in the custody of the
+Court.",4.603,"Court, Sachida, Nand, Singh, supra, Section, CrPC","[('Nand Singh', 'PERSON'), ('Section 340(1', 'LAW'), ('CrPC', 'ORG')]"
+17,"It is a well­recognised canon of
+interpretation that provision curbing the general
+jurisdiction of the court must normally receive strict
+interpretation unless the statute or the context
+requires otherwise (Abdul Waheed Khan v. Bhawani",4.2487,"canon, interpretation, provision, jurisdiction, court, statute, context","[('Abdul Waheed Khan', 'PERSON'), ('Bhawani', 'PERSON')]"
+17,"That apart it is difficult to interpret Section 195(1)
+(b)(ii) as containing a bar against initiation of
+prosecution proceedings merely because the
+document concerned was produced in a court albeit
+the act of forgery was perpetrated prior to its
+production in the Court.",4.4992,"Section, b)(ii, initiation, prosecution, proceedings, document, court","[('Section 195(1', 'LAW'), ('Court', 'ORG')]"
+17,"For
+instance, if rank forgery of a valuable document is
+detected and the forgerer is sure that he would
+imminently be embroiled in prosecution proceedings
+he can simply get that document produced in any
+long­drawn litigation which was either instituted by
+himself or somebody else who can be influenced by
+him and thereby pre­empt the prosecution for the
+entire long period of pendency of that litigation.",4.8271,"instance, rank, forgery, document, forgerer, prosecution, proceedings",[]
+18,"10…It has to be noted that Section 340 falls within
+Chapter XXVI of the Code which contains a fasciculus
+of “Provisions as to offences affecting the
+administration of justice” as the title of the chapter
+appellates.",3.8803,"Section, Chapter, XXVI, Code, fasciculus, Provisions, offences","[('10', 'CARDINAL'), ('Section 340', 'LAW'), ('Chapter XXVI', 'LAW')]"
+18,"The scope of the preliminary enquiry envisaged in
+Section 340(1) of the Code is to ascertain whether any
+offence affecting administration of justice has been
+committed in respect of a document produced in
+court or given in evidence in a proceeding in that
+Court.",4.3196,"scope, enquiry, Section, Code, offence, administration, justice","[('Section 340(1', 'LAW')]"
+18,"It would be a strained thinking that any offence
+involving forgery of a document if committed far
+outside the precincts of the Court and long before its
+production in the Court, could also be treated as one
+affecting administration of justice merely because
+that document later reached the court records.",4.4869,"thinking, offence, forgery, document, precincts, Court, production","[('Court', 'ORG'), ('Court', 'ORG'), ('one', 'CARDINAL')]"
+18,"The three­Judge Bench of this Court in Patel
+Laljibhai Somabhai case [(1971) 2 SCC 376 : 1971
+SCC (Cri) 548 : AIR 1971 SC 1935] has interpreted
+the corresponding section in the old Code, [Section
+195(1)(c)] in almost the same manner as indicated
+above…
+…The issue involved in Patel Laljibhai Somabhai case
+[(1971) 2 SCC 376 : 1971 SCC (Cri) 548 : AIR 1971
+SC 1935] related to the applicability of that sub­
+section to a case where forged document was
+produced in a suit by a party thereto, and
+18",4.7305,"Bench, Court, Patel, Laljibhai, Somabhai, case, section","[('Court', 'ORG'), ('Patel', 'PERSON'), ('Laljibhai Somabhai', 'PERSON'), ('1971', 'DATE'), ('2', 'CARDINAL'), ('1971', 'DATE'), ('548', 'CARDINAL'), ('AIR 1971', 'ORG'), ('SC 1935', 'EVENT'), ('Patel Laljibhai Somabhai', 'PERSON'), ('1971', 'DATE'), ('2', 'CARDINAL'), ('1971', 'DATE'), ('548', 'CARDINAL'), ('1971', 'DATE'), ('18', 'CARDINAL')]"
+19,"“The offences about which the court alone is clothed
+with the right to complain may, therefore, be
+appropriately considered to be only those offences
+committed by a party to a proceeding in that court,
+the commission of which has a reasonably close
+nexus with the proceedings in that court so that it
+can without embarking upon a completely
+independent and fresh inquiry, satisfactorily consider
+by reference principally to its records the expediency
+of prosecuting the delinquent party.",5.1834,"offences, court, right, party, proceeding, commission, nexus",[]
+19,"It, therefore,
+appears to be more appropriate to adopt the strict
+construction of confirming the prohibition contained
+in Section 195(1)(c) only to those cases in which the
+offences specified therein were committed by a party
+to the proceeding in the character as such party.”
+14.",4.0633,"construction, prohibition, Section, cases, offences, party, proceeding","[('Section 195(1)(c', 'LAW'), ('14', 'CARDINAL')]"
+19,"According to their
+Lordships, any construction to the contrary would
+unreasonably restrict the right of a person which was
+recognized in Section 190 of the Code.”
+(emphasis supplied)
+Aforementioned observations of this Court in Patel
+Laljibhai Somabhai (supra), as cited in Sachida Nand Singh
+(supra), make the import and purpose of Section 195(1)(b), CrPC
+19",5.3977,"Lordships, construction, contrary, right, person, Section, Code","[('Lordships', 'PERSON'), ('Section 190 of the Code', 'LAW'), ('Court', 'ORG'), ('Patel', 'PERSON'), ('Laljibhai Somabhai', 'PERSON'), ('Sachida', 'GPE'), ('Nand Singh', 'PERSON'), ('CrPC', 'ORG'), ('19', 'CARDINAL')]"
+20,"The provision is intended to bar the right to initiate
+prosecution only where the offence committed has a reasonably
+close nexus with the court proceedings, such that the Court can
+independently determine the need for an inquiry into the offence
+with reference to its own records.",4.2819,"provision, right, prosecution, offence, nexus, court, proceedings","[('Court', 'ORG')]"
+20,"However, the bar under Section 195(1)(b)(ii) cannot be read as
+operating even in cases where the offence against administration
+of justice was committed in respect of a document
+1) outside of the Court,
+2) by a person who was not yet party to the Court proceedings,
+and,
+3) at a time long before the production of the document before
+the Court.",4.4046,"Section, cases, offence, administration, justice, respect, document","[('Section 195(1)(b)(ii', 'LAW'), ('1', 'CARDINAL'), ('Court', 'ORG'), ('2', 'CARDINAL'), ('Court', 'ORG'), ('3', 'CARDINAL'), ('Court', 'ORG')]"
+21,"The
+prohibition contained in Section 195(1)(b)(i) should not be
+extended to provide protection to a person who has been accused
+of tendering false evidence during the investigative stage prior to
+becoming a party to the court proceedings and producing such
+evidence before the Court.",4.1761,"prohibition, Section, 195(1)(b)(i, protection, person, evidence, stage","[('Section 195(1)(b)(i', 'LAW'), ('Court', 'ORG')]"
+21,"Since the respondents’
+application under Section 340, CrPC was not disposed of, they
+filed a criminal complaint for prosecuting the appellants under
+Sections 192 and 193, as well as Sections 463 and 471, IPC.",3.9486,"respondents, application, Section, CrPC, complaint, appellants, Sections","[('Section 340', 'LAW'), ('CrPC', 'ORG'), ('192', 'CARDINAL'), ('193', 'CARDINAL'), ('471', 'CARDINAL'), ('IPC', 'ORG')]"
+22,"However, it was noticed that Sachida Nand Singh appeared to
+conflict with an earlier three­Judge Bench decision in Surjit
+Singh and Others v. Balbir Singh, (1996) 3 SCC 533.",3.738,"Sachida, Nand, Singh, conflict, three­Judge, Bench, decision","[('Nand Singh', 'PERSON'), ('Bench', 'ORG'), ('Surjit', 'GPE'), ('Singh', 'GPE'), ('Others', 'PERSON'), ('Balbir Singh', 'PERSON'), ('1996', 'DATE'), ('3', 'CARDINAL')]"
+22,"Surjit
+Singh had held that the bar against taking cognizance under
+Section 195(1)(b)(ii) would apply even if the offences stipulated
+therein were committed prior to production of the document
+before the Court, if such document was subsequently produced
+before the Court.",4.1928,"Surjit, Singh, cognizance, Section, offences, production, document","[('Singh', 'GPE'), ('Court', 'ORG'), ('Court', 'ORG')]"
+22,"that the offence should be
+such which has direct bearing or affects the
+functioning or discharge of lawful duties of a public
+servant or has a direct correlation with the
+proceedings in a court of justice, the expression
+“when such offence is alleged to have been committed
+in respect of a document produced or given in
+evidence in a proceeding in any court” occurring in
+clause (b)(ii) should normally mean commission of
+such an offence after the document has actually been
+produced or given in evidence in the court.",5.2762,"offence, bearing, functioning, discharge, duties, servant, correlation",[]
+22,"The
+situation or contingency where an offence as
+enumerated in this clause has already been
+committed earlier and later on the document is
+produced or is given in evidence in court, does not
+appear to be in tune with clauses (a)(i) and (b)(i) and
+22",4.0745,"situation, contingency, offence, clause, document, evidence, court","[('22', 'CARDINAL')]"
+23,"This indicates that clause (b)(ii) contemplates a
+situation where the offences enumerated therein are
+committed with respect to a document subsequent to
+its production or giving in evidence in a proceeding in
+any court.",3.833,"clause, b)(ii, situation, offences, respect, document, production",[]
+23,"11…The fact that the procedure for filing a complaint
+by court has been provided in Chapter XXVI dealing
+with offences affecting administration of justice, is a
+clear pointer to the legislative intent that the offence
+committed should be of such type which directly
+affects the administration of justice viz.",4.7061,"fact, procedure, complaint, court, Chapter, XXVI, offences","[('11', 'CARDINAL'), ('Chapter XXVI', 'LAW')]"
+23,"Any offence committed with respect
+to a document at a time prior to its production or
+giving in evidence in court cannot, strictly speaking,
+be said to be an offence affecting the administration
+of justice.",3.8579,"offence, respect, document, time, production, giving, evidence",[]
+23,"It will be useful to refer to some earlier decisions
+touching the controversy in dispute which were
+rendered on Section 195 of the Code of Criminal
+Procedure, 1898 (for short “the old Code”)…
+14.",3.9843,"decisions, controversy, dispute, Section, Code, Criminal, Procedure","[('Section 195 of the Code of Criminal\nProcedure,', 'LAW'), ('1898', 'DATE'), ('14', 'CARDINAL')]"
+23,"[AIR 1931 All 443 : 32
+Cri LJ 1105 (SB)] considered the scope of the
+aforesaid provision and held, that clause (c) of Section
+195(1) applies only to cases where an offence is
+committed by a party, as such, to a proceeding to any
+court in respect of a document which has been
+produced or given in evidence in such proceeding.",5.0514,"scope, provision, clause, Section, cases, offence, party","[('AIR', 'ORG'), ('443', 'CARDINAL'), ('32', 'CARDINAL'), ('Cri LJ 1105', 'PERSON'), ('SB', 'ORG')]"
+24,"in considerable detail observed that as a general rule
+the courts consider it expedient in the interest of
+justice to start prosecutions as contemplated by
+Section 476 (of the old Code which now corresponds
+to Section 340 CrPC) only if there is a reasonable
+foundation for the charge and there is a reasonable
+likelihood of conviction.",4.599,"detail, rule, courts, interest, justice, prosecutions, Section","[('Section 476', 'LAW'), ('Section 340 CrPC', 'LAW')]"
+24,"The court approved
+the view taken by the Allahabad High Court in
+Emperor v. Kushal Pal Singh and held as under in
+para 7 of the Report: (Patel Laljibhai Somabhai case",4.034,"court, view, Allahabad, High, Court, Emperor, Kushal","[('the Allahabad High Court', 'ORG'), ('Kushal Pal Singh', 'PERSON'), ('7', 'CARDINAL'), ('Laljibhai', 'GPE'), ('Somabhai', 'GPE')]"
+24,"The underlying purpose of enacting Sections
+195(1)(b) and (c) and Section 476 seems to be to
+control the temptation on the part of the private
+parties to start criminal prosecution on frivolous
+vexations or insufficient grounds inspired by a
+revengeful desire to harass or spite their opponents.",4.7558,"purpose, Sections, Section, temptation, parties, prosecution, vexations","[('Section 476', 'LAW')]"
+25,"The facts as stated in
+paras 1 and 11 of the Report show that a criminal
+complaint was filed by the respondent under Sections
+420, 467, 468, 471 read with 120­B IPC alleging that
+the appellants had conspired and fabricated an
+agreement dated 26­7­1978 and had forged the
+signature of Smt Dalip Kaur and on the basis thereof,
+they had made a claim to remain in possession of a
+house.",5.9047,"facts, paras, Report, complaint, respondent, Sections, read","[('1', 'CARDINAL'), ('11', 'CARDINAL'), ('Sections', 'ORG'), ('420', 'CARDINAL'), ('467', 'DATE'), ('468', 'CARDINAL'), ('471', 'CARDINAL'), ('120\xadB', 'CARDINAL'), ('IPC', 'PERSON'), ('26\xad7\xad1978', 'CARDINAL'), ('Dalip Kaur', 'PERSON')]"
+25,"[AIR 1950 PC 31: 51 Cri LJ 651]
+and Sushil Kumar v. State of Haryana [1987 Supp
+SCC 654: 1988 SCC (Cri) 136 : AIR 1988 SC 419]
+wherein it has been held that the bar of Section 195
+would not apply if the original document had not
+been produced or given in evidence in court.",5.145,"Sushil, Kumar, State, Haryana, Supp, Section, document","[('AIR', 'ORG'), ('1950', 'DATE'), ('31', 'CARDINAL'), ('51', 'CARDINAL'), ('Sushil Kumar', 'PERSON'), ('Haryana', 'ORG'), ('1987', 'DATE'), ('Supp\nSCC 654', 'WORK_OF_ART'), ('1988', 'DATE'), ('136', 'CARDINAL'), ('AIR 1988', 'ORG'), ('419', 'CARDINAL'), ('Section 195', 'LAW')]"
+25,"The observations therein should not
+be understood as laying down anything contrary to
+what has been held in Patel Laljibhai but was made
+in the context that bar contained in Section 195(1)(b)
+(ii) would not be attracted unless the original
+document was filed.",4.1081,"observations, Patel, Laljibhai, context, Section, document","[('Patel Laljibhai', 'PERSON')]"
+25,"It is for this reason that in the
+very next paragraph, after observing that the
+cognizance had been taken prior to filing of the civil
+suit and the original agreement in court, the view
+taken by the High Court that the Magistrate could
+25",3.9021,"reason, paragraph, cognizance, filing, suit, agreement, court","[('the High Court', 'ORG'), ('Magistrate', 'ORG'), ('25', 'CARDINAL')]"
+26,"Since the object of deletion of the words “by a
+party to any proceeding in any court” occurring in
+Section 195(1)(c) of the old Code is to afford
+protection to witnesses also, the interpretation placed
+on the said provision in the earlier decisions would
+still hold good.",4.5127,"object, deletion, words, party, proceeding, court, Section","[('Section 195(1)(c', 'LAW')]"
+26,"Section 195(1)(b)(ii) CrPC would be
+attracted only when the offences enumerated in the
+said provision have been committed with respect to a
+document after it has been produced or given in
+evidence in a proceeding in any court i.e. during the
+time when the document was in custodia legis.”
+(emphasis supplied)",4.4781,"Section, CrPC, offences, provision, respect, document, evidence","[('CrPC', 'ORG')]"
+26,"Curiously, though the facts of Iqbal Singh Marwah also
+required a determination as to the applicability of Section 195(1)
+(b)(i), the Constitution Bench did not express any specific finding
+on this point.",3.9847,"facts, Iqbal, Singh, Marwah, determination, applicability, Section","[('Iqbal Singh Marwah', 'PERSON'), ('Section 195(1', 'LAW'), ('the Constitution Bench', 'LAW')]"
+26,"However, it can
+nevertheless be seen that the Constitution Bench did not
+interpret Section 195(1)(b)(ii) in isolation, but linked its
+construction with the overall scheme under Sections 195(1)(b)
+26",3.7537,"Constitution, Bench, Section, isolation, construction, scheme, Sections","[('the Constitution Bench', 'LAW'), ('Section 195(1)(b)(ii', 'LAW'), ('26', 'CARDINAL')]"
+27,"The Court reiterated the test laid down in
+Sachida Nand Singh, i.e., that the offence in respect of which
+only the Court can make a complaint must be one which has a
+direct correlation to, or a direct impact on, proceedings before a
+court of justice.",3.7809,"Court, test, Sachida, Nand, Singh, offence, respect","[('Court', 'ORG'), ('Nand Singh', 'PERSON'), ('Court', 'ORG')]"
+27,"The Court further noted that the situation wherein the
+offence as enumerated under Section 195(1)(b)(ii) has been
+committed earlier, but the document is produced later in court is
+not in consonance with the object of Sections 195(1)(b)(i) either.",3.8716,"Court, situation, offence, Section, document, court, consonance","[('Court', 'ORG'), ('Section 195(1)(b)(ii', 'LAW'), ('Sections 195(1)(b)(i', 'ORG')]"
+27,"Even in Surjit Singh, this Court had held on the facts of that
+case, that since the criminal Court had taken cognizance of the
+offence long before filing of the original document before the civil
+Court, the bar under Section 195(1)(b)(ii) would not apply.",4.3495,"Surjit, Singh, Court, facts, case, cognizance, offence","[('Surjit Singh', 'PERSON'), ('Court', 'ORG'), ('Court', 'ORG'), ('Section 195(1)(b)(ii', 'LAW')]"
+27,"Similar to Sachida Nand Singh, the Constitution Bench
+also referred to the observations made by the three­Judge Bench
+in Patel Laljibhai Somabhai (supra) on Sections 192(b) and
+192(c) of the Code of Criminal Procedure, 1898 (“1898 Code”)
+which corresponded to Section 192(1)(b)(i) and (ii) of the present
+27",4.3655,"Sachida, Nand, Singh, Constitution, Bench, observations, three­Judge","[('Nand Singh', 'PERSON'), ('the Constitution Bench', 'LAW'), ('Bench', 'WORK_OF_ART'), ('Patel Laljibhai Somabhai', 'PERSON'), ('1898', 'DATE'), ('1898', 'DATE'), ('Section 192(1)(b)(i', 'LAW'), ('27', 'CARDINAL')]"
+28,"This Court in Patel Laljibhai Somabhai had
+noted that even under Section 192(b) of the 1898 Code
+(corresponding to Section 195(1)(b)(i), CrPC), the offence
+committed is one with a “close nexus” to the court proceedings.",4.0139,"Court, Patel, Laljibhai, Somabhai, Section, 192(b, Code","[('Patel Laljibhai Somabhai', 'PERSON'), ('Section 192(b', 'LAW'), ('1898', 'DATE'), ('Section 195(1)(b)(i', 'LAW'), ('CrPC', 'ORG')]"
+28,"The words “in relation to” under Section 195(1)(b(i) appear
+to encompass situations wherein false evidence has been
+fabricated prior to being produced before a Court of law, for the
+purpose of being used in proceedings before the Court.",3.9635,"words, relation, Section, situations, evidence, Court, purpose","[('Section 195(1)(b(i', 'LAW'), ('Court', 'ORG')]"
+29,"The point forcefully argued by the learned
+Counsel on behalf of the Appellants is that his
+clients, being victims of forgery, ought not to be
+rendered remediless in respect of the acts of forgery
+which are committed before they are used as evidence
+in a court proceeding, and that therefore, a private
+complaint would be maintainable in the fact
+circumstance mentioned in the two criminal
+complaints referred to hereinabove.",5.2794,"point, Counsel, behalf, Appellants, clients, victims, forgery","[('Appellants', 'ORG'), ('two', 'CARDINAL')]"
+29,"The Court has
+thus to steer between two opposite poles of a
+spectrum the “yin” being the protection of a person
+from frivolous criminal complaints, and the “yang”
+being the right of a victim to ventilate his grievance
+and have the Court try the offence of forgery by
+means of a private complaint.",4.5741,"Court, poles, spectrum, protection, person, complaints, yang","[('Court', 'ORG'), ('two', 'CARDINAL'), ('Court', 'ORG')]"
+29,"In order to appreciate
+whether this case falls within the category of avoiding
+frivolous litigation, or whether it falls within the
+individual's right to pursue a private complaint, we
+must needs refer to several decisions of this Court.”
+10.1",3.991,"order, case, category, litigation, individual, right, complaint","[('Court', 'ORG'), ('10.1', 'CARDINAL')]"
+30,"It noted that the averments
+made by the appellants in their complaints pertained exclusively
+to giving of false evidence and did not disclose the ingredients of
+forgery as defined under the IPC.",3.7596,"averments, appellants, complaints, evidence, ingredients, forgery","[('IPC', 'ORG')]"
+30,"Where the facts mentioned in a
+complaint attracts the provisions of Section 191 to
+193 of the Indian Penal Code, Section 195(1)(b)(i) of
+the Code of Criminal Procedure applies.",3.7312,"facts, complaint, provisions, Section, Indian, Penal, Code","[('Section 191', 'LAW'), ('193', 'CARDINAL'), ('the Indian Penal Code', 'LAW'), ('Section 195(1)(b)(i', 'LAW'), ('the Code of Criminal Procedure applies', 'WORK_OF_ART')]"
+31,"of offences described in Section 463, and punishable
+under Sections 471, 475 or 476 of the Indian Penal
+Code, when such offences are alleged to have been
+committed in respect of a document produced or
+given in evidence in a proceeding in any Court.",4.3769,"offences, Section, Sections, Indian, Penal, Code, respect","[('Section 463', 'LAW'), ('Sections 471', 'ORG'), ('475', 'CARDINAL'), ('476', 'CARDINAL'), ('Court', 'ORG')]"
+31,"What
+is conspicuous by its absence in Section 195(1)(b)(ii)
+are the words “or in relation to”, making it clear that
+if the provisions of Section 195(1)(b)(ii) are attracted,
+then the offence alleged to have been committed must
+be committed in respect of a document that is
+custodia legis, and not an offence that may have
+occurred prior to the document being introduced in
+court proceedings.",4.657,"absence, Section, words, relation, provisions, offence, respect","[('Section 195(1)(b)(ii', 'LAW')]"
+31,"Indeed, it is this distinction that is
+vital in understanding the sheet anchor of the
+Appellant's case namely, this Court's judgment in
+Iqbal Singh Marwah (supra).”
+(emphasis supplied)
+10.2 We fully agree with the aforementioned reasoning.",4.3173,"distinction, sheet, anchor, Appellant, case, Court, judgment","[('Appellant', 'PRODUCT'), ('Court', 'ORG'), ('Iqbal Singh Marwah', 'PERSON'), ('10.2', 'CARDINAL')]"
+31,"The
+presence of “in relation to” under Section 195(1)(b)(i) means that
+Iqbal Singh Marwah would not have blanket application to
+every case where a complaint is lodged in respect of an offence
+specified under that Section.",3.8555,"presence, relation, Section, 195(1)(b)(i, Iqbal, Singh, Marwah","[('Section 195(1)(b)(i', 'LAW'), ('Iqbal Singh Marwah', 'PERSON')]"
+32,"Similar circumstances were present in Kailash Mangal v.
+Ramesh Chand (Dead) Through Legal Representative, (2015)
+15 SCC 729 and Narendra Kumar Srivastava v. State of
+Bihar and Others, (2019) 3 SCC 318, which were the decisions
+relied upon by this Court in Bandekar Brothers (supra).",5.081,"circumstances, Kailash, Mangal, Ramesh, Chand, Dead, Legal","[('Kailash Mangal', 'GPE'), ('Ramesh Chand (Dead', 'ORG'), ('2015', 'DATE'), ('15', 'CARDINAL'), ('Narendra Kumar Srivastava v. State', 'PERSON'), ('Bihar and Others', 'WORK_OF_ART'), ('2019', 'DATE'), ('3', 'CARDINAL'), ('318', 'CARDINAL'), ('Court', 'ORG'), ('Bandekar Brothers', 'ORG')]"
+32,"In the instant case, the false affidavit alleged to
+have been filed by the appellant was in a proceeding
+pending before the civil court and the offence falls
+under Section 193 IPC and the proceeding ought to
+have been initiated on the complaint in writing by
+that court under Section 195(1)(b)(i) IPC.",4.4011,"instant, case, affidavit, appellant, proceeding, pending, court","[('Section 193 IPC', 'LAW'), ('Section 195(1)(b)(i', 'LAW')]"
+33,"Therefore, this Court expressly observed in Kailash
+Mangal that since the document was filed during the course of a
+proceeding which was already pending before the court, the
+offence could be said to have been committed “in relation to” such
+proceeding for the purpose of Section 195(1)(b)(i), CrPC.",4.0561,"Court, Kailash, Mangal, document, course, proceeding, court","[('Court', 'ORG'), ('Kailash', 'GPE'), ('Section 195(1)(b)(i', 'LAW'), ('CrPC', 'ORG')]"
+33,"In Narendra Kumar Srivastava (supra), the
+appellant had filed a private complaint contending that the
+respondent officials had produced a false show­cause affidavit in
+the contempt petition filed by the appellant.",3.9822,"Narendra, Kumar, Srivastava, supra, appellant, complaint, respondent","[('Narendra', 'GPE'), ('Kumar Srivastava', 'PERSON')]"
+34,"Indeed, at this juncture it must be noted that even
+Sachida Nand Singh (supra) and Iqbal Singh Marwah (supra)
+were rendered in the context of balancing the right of private
+parties to initiate complaints in respect of forged documents, with
+protecting parties to civil suits from frivolous or vexatious
+prosecutions.",4.866,"juncture, Sachida, Nand, Singh, supra, Iqbal, Marwah","[('Nand Singh', 'PERSON'), ('Iqbal Singh Marwah', 'PERSON')]"
+34,"In neither of the abovementioned decisions has this
+Court authoritatively considered the specific issue of preserving
+the right of an investigative agency, such as the Respondent in
+the present case, to initiate complaints against persons who have
+fabricated false evidence during the course of criminal
+proceedings.
+13.",4.7459,"decisions, Court, issue, right, agency, Respondent, case","[('Court', 'ORG'), ('Respondent', 'LOC'), ('13', 'CARDINAL')]"
+34,"The moot point therefore, as mentioned in Para
+Nos. 6 & 6.1, is whether offence committed
+under Section 193, IPC during the stage of
+investigation, prior to commencement of
+proceedings before the Trial Court, by a person
+34",4.1607,"moot, point, Para, offence, Section, stage, investigation","[('Section 193', 'LAW'), ('IPC', 'ORG'), ('the Trial Court', 'ORG'), ('34', 'CARDINAL')]"
+35,"The construction of the words “in relation to” must be
+controlled by the overarching principle applicable to Section
+195(1)(b), CrPC as stated in Patel Laljibhai Somabhai (supra)
+and Sachida Nand Singh (supra), which was affirmed by the
+Constitution Bench in Iqbal Singh Marwah (supra).",4.5087,"construction, words, relation, overarching, principle, Section, CrPC","[('CrPC', 'ORG'), ('Patel Laljibhai Somabhai', 'PERSON'), ('Nand Singh', 'PERSON'), ('Iqbal Singh Marwah', 'PERSON')]"
+35,"Looking to the decision in Bandekar Brothers (supra),
+is true to say that Section 195(1)(b)(i), CrPC may be attracted to
+the offence of fabricating false evidence prior to its production
+before the Court, provided that such evidence is led by a person
+who is party to the court proceedings, for the purpose of leading
+the Court to form a certain opinion based on such evidence.",5.1635,"decision, Bandekar, Brothers, supra, Section, 195(1)(b)(i, CrPC","[('Bandekar Brothers', 'ORG'), ('Section 195(1)(b)(i', 'LAW'), ('CrPC', 'ORG'), ('Court', 'ORG'), ('Court', 'ORG')]"
+36,"also apply where a person who is initially not a party to the court
+proceedings fabricates certain evidence, and
+1) subsequently becomes a party and produces it before the
+Court; or;
+2) falsely deposes as a witness before the Court on the strength of
+such evidence,
+for the purpose of causing the Court to form an erroneous
+opinion on a point material to the result of the proceedings.",4.7191,"person, party, court, proceedings, evidence, Court, witness","[('1', 'CARDINAL'), ('2', 'CARDINAL'), ('Court', 'ORG'), ('Court', 'ORG')]"
+36,"There is
+an indirect nexus inasmuch as if the investigating agency does
+not suspect any wrongdoing, and the Court commits the case for
+trial, the evidence will be produced for the Court’s perusal and
+impact the judicial decision­making process.",4.3362,"nexus, agency, wrongdoing, Court, case, trial, evidence","[('Court', 'ORG'), ('Court', 'ORG')]"
+36,"However, it may be
+equally possible that even if the fabricated evidence appears
+sufficiently convincing, the investigating agency may drop
+proceedings against the accused and divert its time and
+resources elsewhere.",3.7522,"evidence, agency, proceedings, time, resources",[]
+37,"In this regard, we consider it beneficial to refer to the
+portion of the opinion expressed by the Constitution Bench in
+Iqbal Singh Marwah (supra) as to why a narrow interpretation
+of Section 195(1)(b)(ii), CrPC was necessary to avoid
+impracticality or injustice in its implementation:
+“23…Before filing of the complaint, the court may
+hold a preliminary enquiry and record a finding to the
+effect that it is expedient in the interests of justice
+that enquiry should be made into any of the offences
+referred to in Section 195(1)(b).",5.9703,"regard, portion, opinion, Constitution, Bench, Iqbal, Singh","[('the Constitution Bench', 'LAW'), ('Iqbal Singh Marwah', 'PERSON'), ('Section 195(1)(b)(ii', 'LAW'), ('CrPC', 'ORG'), ('23…Before', 'WORK_OF_ART')]"
+37,"This expediency will
+normally be judged by the court by weighing not the
+magnitude of injury suffered by the person affected
+by such forgery or forged document, but having
+regard to the effect or impact, such commission of
+offence has upon administration of justice.",4.4476,"expediency, court, magnitude, injury, person, forgery, document",[]
+37,"It is
+possible that such forged document or forgery may
+cause a very serious or substantial injury to a person
+in the sense that it may deprive him of a very
+valuable property or status or the like, but such
+document may be just a piece of evidence produced
+or given in evidence in court, where voluminous
+evidence may have been adduced and the effect of
+such piece of evidence on the broad concept of
+37",4.8067,"document, forgery, injury, person, sense, property, status","[('37', 'CARDINAL')]"
+38,"Section 343(2) confers a discretion upon a court
+trying the complaint to adjourn the hearing of the
+case if it is brought to its notice that an appeal is
+pending against the decision arrived at in the judicial
+proceeding out of which the matter has arisen.",4.2716,"Section, discretion, court, complaint, hearing, case, notice",[]
+38,"In
+view of these provisions, the complaint case may not
+proceed at all for decades specially in matters arising
+out of civil suits where decisions are challenged in
+successive appellate fora which are time­consuming.",4.1469,"view, provisions, complaint, case, decades, matters, suits","[('decades', 'DATE')]"
+39,"It will not be fair and proper to give an
+interpretation which leads to a situation where a
+person alleged to have committed an offence of the
+type enumerated in clause (b)(ii) is either not placed
+for trial on account of non­filing of a complaint or if a
+complaint is filed, the same does not come to its
+logical end.",4.7768,"interpretation, situation, person, offence, type, clause, b)(ii",[]
+39,"It is possible that Courts may be more pro­active in making
+complaints under Section 195(1)(b)(i), CrPC upon application
+made by the concerned investigative agencies, than in those
+preferred by private parties.",3.8584,"Courts, complaints, Section, 195(1)(b)(i, CrPC, application, agencies","[('Section 195(1)(b)(i', 'LAW'), ('CrPC', 'ORG')]"
+39,"Therefore, the aforementioned reasons assigned by the
+Constitution Bench in Iqbal Singh Marwah for adopting a
+narrow construction of Section 195(1)(b)(ii), CrPC may not be
+strictly applicable in the present case.",4.1666,"reasons, Constitution, Bench, Iqbal, Singh, Marwah, construction","[('Iqbal Singh Marwah', 'PERSON'), ('Section 195(1)(b)(ii', 'LAW'), ('CrPC', 'ORG')]"
+40,"Just like a private party who has been a victim of
+forgery committed outside the precincts of the Court, the
+investigative agency should not be left remediless against persons
+who have producing false evidence for the purpose of interfering
+with the investigation process.",4.5418,"party, victim, forgery, precincts, Court, agency, persons","[('Court', 'ORG')]"
+41,"Hence it would
+not be possible for the Court to independently ascertain the need
+for lodging a complaint under Section 195(1)(b)(i) read with
+Section 340, CrPC when the evidence alleged to have been
+falsified is not even present on its records.",3.9335,"Court, need, complaint, Section, 195(1)(b)(i, CrPC, evidence","[('Court', 'ORG'), ('Section 195(1)(b)(i', 'LAW'), ('Section 340', 'LAW'), ('CrPC', 'ORG')]"
+41,"In case the bar under Section 195(1)(b)(i) is applied to
+offences committed during the course of investigation, the Court
+may think it fit to wait till the completion of trial to evaluate
+whether a complaint should be made or not.",3.9779,"case, Section, 195(1)(b)(i, offences, course, investigation, Court","[('Section 195(1)(b)(i', 'LAW'), ('Court', 'ORG')]"
+41,"Subsequently, the
+Court may be of the opinion that in the larger scheme of things
+the alleged fabrication of evidence during investigation has not
+had any material impact on the trial, and decline to initiate
+prosecution for the same.",3.8703,"Court, opinion, scheme, things, fabrication, evidence, investigation",[]
+42,"Further, irrespective of the potential
+impact that such false evidence may have on the opinion formed
+by the trial court, the investigating agency has a separate right to
+proceed against the accused for attempting to obstruct fair and
+transparent probe into a criminal offence.",4.4844,"impact, evidence, opinion, trial, court, agency, right",[]
+42,"It must be clarified that the aforementioned opinion
+expressed by us is limited to factual situations such as the
+present case wherein the fabricated evidence has been detected
+prior to commencement of the trial, or without such trial having
+been initiated in the first place.",4.1514,"opinion, situations, case, evidence, commencement, trial, place","[('first', 'ORDINAL')]"
+42,"The same may not apply for
+example, where the investigation agency on the basis of false
+evidence given by a third party happens to wrongfully implicate a
+person, other than the real perpetrator, for a particular offence.",3.9798,"example, investigation, agency, basis, evidence, party, person","[('third', 'ORDINAL')]"
+43,"Since by this stage, the evidence has been produced before the
+Court, and contains potential for directly impacting the formation
+of the Court’s opinion on the innocence or guilt of the accused
+person, invoking the bar under Section 195(1)(b)(i) may not give
+rise to much difficulty.",4.269,"stage, evidence, Court, potential, formation, opinion, innocence","[('the\nCourt', 'ORG'), ('Court', 'ORG'), ('Section 195(1)(b)(i', 'LAW')]"
+43,"In this regard, we also find it necessary to distinguish
+the three­Judge Bench decision of this Court in Arvindervir
+Singh v. State of Punjab and Another, (1998) 6 SCC 352 from
+the present case.",3.8747,"regard, Bench, decision, Court, Arvindervir, Singh, State","[('Bench', 'ORG'), ('Court', 'ORG'), ('Arvindervir', 'ORG'), ('Singh v. State of Punjab', 'GPE'), ('1998', 'DATE'), ('6', 'CARDINAL'), ('352', 'CARDINAL')]"
+44,"Haryana Bar Association, directed the CBI to conduct an
+independent investigation [Punjab and Haryana High Court
+Bar Association, Chandigarh Through its Secretary v. State
+of Punjab and Others, (1994) 1 SCC 616].",3.7941,"Haryana, Association, investigation, Punjab, High, Court, Chandigarh","[('Haryana Bar Association', 'ORG'), ('CBI', 'ORG'), ('Punjab', 'NORP'), ('Haryana High Court', 'PERSON'), ('Chandigarh Through', 'ORG'), ('Punjab and Others', 'WORK_OF_ART'), ('1994', 'DATE'), ('1', 'CARDINAL'), ('616', 'CARDINAL')]"
+44,"This Court in Arvindervir Singh clarified that challan was
+to be filed directly by the CBI only in respect of the offence of
+abduction and murder alleged to have been committed by the
+appellant­accused.",3.8175,"Court, Arvindervir, Singh, challan, respect, offence, abduction","[('Arvindervir Singh', 'PERSON'), ('CBI', 'ORG')]"
+44,"So far as the offence punishable under
+Sections 193 and 211, IPC was concerned it was for the
+designated trial court to make a written complaint to a Magistrate
+having jurisdiction.",3.9801,"offence, Sections, trial, court, complaint, Magistrate, jurisdiction","[('193', 'CARDINAL'), ('211', 'CARDINAL'), ('IPC', 'ORG'), ('Magistrate', 'ORG')]"
+45,"The last point that remains to be considered is the effect
+of Explanation 2 to Section 193, IPC which deems an
+investigation preliminary to a proceeding before a Court of
+Justice to be a “stage of a judicial proceeding” for the purposes of
+the Section.",3.9832,"point, effect, Explanation, Section, investigation, proceeding, Court","[('Explanation 2 to Section 193', 'LAW'), ('IPC', 'ORG'), ('Court', 'ORG')]"
+45,"This
+gives rise to the question of whether an offence committed during
+the investigation, which is a “stage of a judicial proceeding”
+under Explanation 2, Section 193, IPC, would be an offence
+committed “in relation to any proceeding in any Court” under
+Section 195(1)(b)(i), CrPC.
+45",4.0547,"rise, question, offence, investigation, stage, proceeding, Explanation","[('Section 193', 'LAW'), ('IPC', 'ORG'), ('Court', 'ORG'), ('Section 195(1)(b)(i', 'LAW'), ('CrPC', 'ORG'), ('45', 'CARDINAL')]"
+46,"The purpose of Explanation 2 to Section 193, IPC is
+evidently to ensure that a person who fabricates false evidence
+before an investigating or inquiring authority prior to the trial of
+the case does not escape penalty.",4.2781,"purpose, Explanation, Section, person, evidence, authority, trial","[('Explanation 2 to Section 193', 'LAW'), ('IPC', 'ORG')]"
+46,"20.2 The object and purpose of Section 195(1)(b), CrPC must
+be borne in mind whilst determining whether the fabrication of
+false evidence during a stage of a judicial proceeding amounts to
+having made such fabrication in relation to a proceeding before
+the Court.",4.1074,"object, purpose, Section, CrPC, mind, fabrication, evidence","[('20.2', 'CARDINAL'), ('CrPC', 'ORG'), ('Court', 'ORG')]"
+47,"Furthermore, for the
+purpose of Section 195(1)(b)(i), CrPC, there must be an intention
+on part of the alleged offender to directly mislead the Court into
+forming a certain opinion by commission of offence under Section
+193, IPC.",4.055,"purpose, Section, 195(1)(b)(i, CrPC, intention, offender, Court","[('Section 195(1)(b)(i', 'LAW'), ('CrPC', 'ORG'), ('Court', 'ORG'), ('IPC', 'ORG')]"
+47,"Though a criminal investigation is certainly a stage of a
+judicial proceeding insofar as it may culminate in issue of
+process and trial against the accused, it would not be a
+proceeding in relation to a certain Court under Section 195(1)(b)
+(i), CrPC before the Court has even taken judicial notice of such
+investigation.",4.2341,"investigation, stage, proceeding, issue, process, trial, accused","[('Court', 'ORG'), ('Section 195(1)(b', 'LAW'), ('CrPC', 'ORG'), ('Court', 'ORG')]"
+48,"Section 37(4) of the 1922 Act provided
+that proceedings before the Income Tax authority shall be
+deemed to be “judicial proceedings” (and not merely a stage of
+such proceedings) under Section 193, IPC.",3.8308,"Section, 37(4, proceedings, Income, authority, stage","[('Section 37(4', 'LAW'), ('Income Tax', 'ORG'), ('Section 193', 'LAW'), ('IPC', 'ORG')]"
+48,"It was in this context
+that the majority of the Constitution Bench (K.C. Dasgupta J.,
+dissenting) held that the expressions “judicial proceeding” under
+the 1922 Act and “proceeding in any court” under Section 195(1)
+(b), 1898 Code are synonymous.",4.0335,"context, majority, Constitution, Bench, K.C., Dasgupta, dissenting","[('the Constitution Bench', 'LAW'), ('Section 195(1', 'LAW'), ('1898', 'DATE')]"
+48,"In Babita Lila and Another v. Union of India, (2016)
+9 SCC 647, a Division Bench of this Court similarly considered
+the jurisdiction of the Deputy Director of Income Tax to make a
+complaint under Section 195(1)(b), CrPC in respect of false
+statements given on oath during a search operation conducted
+under the Income Tax Act, 1961.",5.3229,"Babita, Lila, Union, India, Division, Bench, Court","[('Babita Lila', 'PERSON'), ('Another v. Union of India', 'ORG'), ('2016', 'DATE'), ('9 SCC 647', 'PRODUCT'), ('Court', 'ORG'), ('Income Tax', 'ORG'), ('Section 195(1)(b', 'LAW'), ('CrPC', 'ORG'), ('the Income Tax Act', 'LAW'), ('1961', 'DATE')]"
+49,"However, the Division
+Bench, referring to Lalji Haridas, made an ancillary observation
+that such search operation is deemed to be a “judicial
+proceeding” under Section 193, CrPC, and that the relevant
+Income Tax authority would be deemed to be a civil court for the
+purpose of Section 195, CrPC.",4.5579,"Division, Bench, Lalji, Haridas, observation, search, operation","[('the Division\nBench', 'ORG'), ('Lalji Haridas', 'PERSON'), ('Section 193', 'LAW'), ('CrPC', 'ORG'), ('Income Tax', 'ORG'), ('Section 195', 'LAW'), ('CrPC', 'ORG')]"
+49,"1 SCC 466, a three­Judge Bench of this
+Court was faced with the issue of whether 195(1)(b)(i), CrPC
+would bar a complaint under Sections 193, 199 and 201 of the
+IPC alleging making of false statements in affidavit before the
+Rent Control Officer under the U.P, Urban Buildings (Regulation
+of Letting, Rent and Eviction) Act, 1972.",5.2582,"three­Judge, Bench, Court, issue, 195(1)(b)(i, CrPC, complaint","[('1', 'CARDINAL'), ('Bench', 'PERSON'), ('195(1)(b)(i', 'CARDINAL'), ('CrPC', 'ORG'), ('Sections 193', 'ORG'), ('199', 'CARDINAL'), ('201', 'CARDINAL'), ('IPC', 'ORG'), ('Letting, Rent and Eviction) Act', 'ORG'), ('1972', 'DATE')]"
+49,"Similar to the
+aforementioned income tax statutes, Section 34(2) of the 1972
+Act provided that the District Magistrate or the prescribed
+authority holding an inquiry under the Act shall be deemed to be
+a Civil Court within the meaning of Sections 480 and 482 of the
+49",4.8516,"income, statutes, Section, District, Magistrate, authority, inquiry","[('Section 34(2', 'LAW'), ('1972', 'DATE'), ('the District Magistrate', 'ORG'), ('Civil Court', 'ORG'), ('Sections 480', 'FAC'), ('482', 'CARDINAL'), ('49', 'CARDINAL')]"
+50,"Hence, in view of the specific
+provision made under Section 34(2) of the 1972 Act, the Rent
+Control Officer would also be deemed to be a civil court and the
+proceedings before him would be judicial proceedings.",3.7368,"view, provision, Section, Rent, Control, Officer, court","[('Section 34(2', 'LAW'), ('1972', 'DATE'), ('the Rent\nControl Officer', 'ORG')]"
+50,"Even otherwise, on the facts of the case, the three­Judge Bench
+found that abuse of criminal process had taken place and
+observed that “chagrined and frustrated litigants should not be
+permitted to give vent to their frustration by cheaply invoking the
+jurisdiction of the criminal court” (Chandrapal Singh, (supra),
+paragraph 14).",4.8401,"facts, case, three­Judge, Bench, abuse, process, place","[('Bench', 'PRODUCT'), ('Chandrapal Singh', 'PERSON'), ('14', 'CARDINAL')]"
+51,"However, the facts of the
+decisions in Lalji Haridas (supra), Babita Lila (supra) and
+Chandrapal Singh (supra), are clearly distinguishable from the
+present appeal as they all involve 1) False statements made on
+oath or in affidavits, 2) in a judicial proceeding and 3) before an
+authority which is expressly deemed under law to be a “court”.",4.7438,"facts, decisions, Lalji, Haridas, supra, Babita, Lila","[('Lalji Haridas', 'PERSON'), ('Babita Lila', 'PERSON'), ('Chandrapal Singh', 'PERSON'), ('1', 'CARDINAL'), ('2', 'CARDINAL'), ('3', 'CARDINAL')]"
+51,"In the present case, pursuant to recovering the seized
+currency from the Appellant’s house on 24.01.2001, the
+Respondent initiated investigation under Section 13(2) read with
+Section 13(1)(e), PC Act against him.",4.1625,"case, currency, Appellant, house, Respondent, investigation, Section","[('Appellant', 'PRODUCT'), ('24.01.2001', 'DATE'), ('Section 13(2', 'LAW')]"
+51,"2 and 3, at the
+behest of the Appellant, wrote letter dated 4.02.2002 to the
+Superintendent of Police, CBI stating that the seized currency
+was held by the Appellant as part of an escrow arrangement
+amongst the parties.",4.0896,"behest, Appellant, letter, Superintendent, Police, currency, escrow","[('2', 'CARDINAL'), ('3', 'CARDINAL'), ('Appellant', 'PRODUCT'), ('CBI', 'ORG'), ('Appellant', 'PRODUCT')]"
+52,"There was no involvement of the Trial
+Court at this stage in as much as the letter dated 4.02.2002 and
+the sale deed were obviously intended to convince the
+investigation agency that the Appellant had not accumulated
+disproportionate financial assets.",4.3379,"involvement, Trial, Court, stage, letter, sale, deed","[('the Trial\nCourt', 'ORG'), ('Appellant', 'ORG')]"
+52,"Had the Respondent accepted
+the veracity of the contents of this letter, they would not only
+have dropped the investigation against Appellant/Accused No. 1
+but also wrongfully returned the seized currency under the
+mistaken impression that it was the property of Accused No. 2.",3.934,"Respondent, veracity, contents, letter, investigation, Appellant, currency","[('Appellant/Accused No', 'ORG'), ('1', 'CARDINAL'), ('2', 'CARDINAL')]"
+53,"Hence
+it cannot be said that the offence under Sections 120B read with
+193, IPC was committed by the Appellants “in relation to” a
+proceeding in a court under Section 195(1)(b)(i), CrPC.",3.7341,"offence, Sections, 120B, Appellants, relation, proceeding, court","[('193', 'CARDINAL'), ('IPC', 'ORG'), ('Section 195(1)(b)(i', 'LAW'), ('CrPC', 'ORG')]"
+53,"However, neither was the
+fabricated evidence in the present case given on oath before the
+investigating officer, nor is the investigating authority under the
+PC Act deemed to be a “court” for the purpose of Section 195(1)
+(b), CrPC.",3.8642,"evidence, case, oath, officer, authority, court, purpose","[('Section 195(1', 'LAW'), ('CrPC', 'ORG')]"
+54,"22.3 Had this been a case wherein the Respondent had not
+developed any suspicion against Accused Nos. 2 and 3, and the
+Trial Court had subsequently discovered the subterfuge caused
+by them, we may have taken a different view.",3.8293,"case, Respondent, suspicion, Accused, Trial, Court, subterfuge","[('22.3', 'CARDINAL'), ('Accused Nos', 'PERSON'), ('2', 'CARDINAL'), ('3', 'CARDINAL'), ('Trial Court', 'ORG')]"
+54,"As we have noted in
+paragraph 18 (supra), where the fabrication of evidence has
+escaped the scrutiny of the investigating agency, and the case is
+subsequently brought to trial, such evidence would have direct
+bearing on the trial court’s opinion and hence the bar under
+Section 195(1)(b)(i), CrPC may be applicable.",4.5888,"paragraph, supra, fabrication, evidence, scrutiny, agency, case","[('18', 'DATE'), ('Section 195(1)(b)(i', 'LAW'), ('CrPC', 'ORG')]"
+54,"Therefore, as stated by us in
+paragraph 17.3 (supra), it would be unjust and impracticable to
+insist upon the requirement of an independent inquiry and
+written complaint by the Trial Court in such a scenario.
+23.",3.8748,"paragraph, supra, requirement, inquiry, complaint, Trial, Court","[('17.3', 'CARDINAL'), ('the Trial Court', 'ORG'), ('23', 'CARDINAL')]"
+55,"It is
+improbable in the ordinary course of conduct that a person
+would wait so long to claim an amount of approximately Rs. 80
+lakhs which was required for completion of sale transaction.",3.9645,"course, conduct, person, lakhs, completion, sale, transaction","[('80', 'CARDINAL')]"
+55,"Hence it is apparent that the Appellants/accused
+entered into an elaborate conspiracy and attempted to create a
+false circumstance of escrow transaction for the purpose of
+shielding Appellant/Accused No. 1 from prosecution.",3.9214,"Appellants, conspiracy, circumstance, transaction, purpose, shielding, Appellant","[('Appellants', 'ORG'), ('Appellant/Accused No', 'WORK_OF_ART'), ('1', 'CARDINAL')]"
+55,"In fact, the
+High Court has shown great lenity by reducing the sentences
+awarded to the Appellants/accused in view of their advanced age
+55",3.7434,"fact, High, Court, lenity, sentences, Appellants, view","[('Appellants', 'ORG'), ('55', 'DATE')]"
+56,"The questions of law formulated in paragraph 6
+(supra) are answered as follows:
+Section 195(1)(b)(i), CrPC will not bar
+prosecution by the investigating agency for offence
+punishable under Section 193, IPC, which is
+committed during the stage of investigation.",4.4432,"questions, paragraph, supra, Section, 195(1)(b)(i, CrPC, prosecution","[('6', 'CARDINAL'), ('Section 195(1)(b)(i', 'LAW'), ('CrPC', 'ORG'), ('Section 193', 'LAW'), ('IPC', 'ORG')]"
+56,"This is
+provided that the investigating agency has lodged
+complaint or registered the case under Section 193,
+IPC prior to commencement of proceedings and
+production of such evidence before the trial court.",3.9407,"agency, complaint, case, Section, commencement, proceedings, production","[('Section 193', 'LAW'), ('IPC', 'ORG')]"
+57,"If any arrears of fine are remaining, the Appellants
+shall pay the same within a period of not more than four weeks
+from the date of this order.
+………………………………………….J.
+(MOHAN M. SHANTANAGOUDAR)
+………………………………………....J.
+(VINEET SARAN)
+NEW DELHI;
+MARCH 12, 2021
+57",4.4441,"arrears, fine, Appellants, period, weeks, date, order","[('MOHAN M. SHANTANAGOUDAR', 'PERSON'), ('NEW DELHI', 'GPE'), ('MARCH 12, 2021', 'DATE'), ('57', 'CARDINAL')]"
